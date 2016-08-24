@@ -132,7 +132,8 @@
 
 			#nav > ul > li > a:hover
 			{
-				color: #FFF;
+				color: #364823;
+				font-size: 150%;
 			}
 
 			#nav li.active a
