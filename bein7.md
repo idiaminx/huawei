@@ -2,7 +2,7 @@
 layout: bein
 title: Bein Sports 7 HD
 description: "Bein Sports son canales de deportes que transmiten distintos deportes en directo, idioma árabe. Bein Sports are sports channels with live sending."
-author: abuseombudsman
+author: idiaminx
 ---
 
 <html>

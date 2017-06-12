@@ -2,9 +2,9 @@
 layout: bein
 title: "Ar beIN 3HD"
 description: "Los bein sports son canales de deportes con transmiciones en directo en arabe. Live sports from bein sports channels in arab."
-author: abuseombudsman
+author: idiaminx
 ---
-# Ar beIN 3 HD
+
 <html>
 
 							<center><div id="contenido"><header>
