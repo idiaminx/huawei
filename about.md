@@ -27,5 +27,5 @@ y la mente del asador indirectamente <a href="//punto-o-elemento-negativo">oliga
 la descolectivizaciòn, el ostracismo y aislamiento del individuo, la tristeza. Este sistema es utlizado en cuanta guerra Estados-Unidos ha estado involucrado en el mundo. Por ejemplo LaArgentina jamàs 
 tuvo una chance en el tema deMalvinas con la existencia de asadores porteños en la sociedad bonaerense. Por hoy, nada màs.
 
-Abuseombudsman
+Idiaminx
 
