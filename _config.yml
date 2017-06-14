@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Bein Sports
-email: idi.aminx@gmail.com
+email: abuse.ombudsman@gmail.com
 description: # this means to ignore newlines until "baseurl:"
   Bein Sports are sports channels that send live
   a lot of sports events such football, basketball,
   handball, formula 1, tenis and moto GP among others.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://huawei-iptv.tk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://abuseombudsman.github.io/iptv" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
-github_username:  idiaminx
+github_username:  abuseombudsman
 
 # Build settings
 markdown: kramdown
