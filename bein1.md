@@ -73,7 +73,7 @@ author: abuseombudsman
 
 														<div class="media-wrapper">
 															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://asno.gcdn.co/bn-sp-1-hd/index.m3u8" controls>
-																<source src="http://asno.gcdn.co/bn-sp-1-hd/index.m3u8" type="video/hls">		<!--"-->
+																<source src="http://sys.dx10.org:8085/live/iQsIOrmm4O/BdbNBVhcqt/10484.ts" type="video/hls">		<!--"-->
 															</video>
 														</div>
 
