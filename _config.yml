@@ -17,11 +17,10 @@ title: Bein Sports
 email: abuse.ombudsman@gmail.com
 description: # this means to ignore newlines until "baseurl:"
   Bein Sports are sports channels that send live
-  sports such football, basketball,
+  a lot of sports events such football, basketball,
   handball, formula 1, tenis and moto GP among others.
-  Bein Sports live sports.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://huawei-iptv.tk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://abuseombudsman.github.io/iptv" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  abuseombudsman
 
