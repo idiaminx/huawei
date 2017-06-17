@@ -1,7 +1,7 @@
 ---
 layout: bein
 title: Bein Sports 14 HD
-description: "Bein Sports son canales de deportes que transmiten distintos deportes en directo, idioma árabe. Bein Sports are sports channels with live sending."
+description: "Los Bein Sports son canales de deportes que transmiten distintos eventos deportivos en directo, idioma árabe. Bein Sports are sports channels with live sending."
 author: abuseombudsman
 ---
 

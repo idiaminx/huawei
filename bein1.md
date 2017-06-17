@@ -1,7 +1,7 @@
 ---
 layout: bein
 title: Bein Sports 1 HD
-description: "Bein Sports son canales de deportes que transmiten distintos deportes en directo, idioma árabe. Bein Sports are sports channels with live sending."
+description: "Copa de las Confederaciones Rusia 2017. Partido inaugural sábad0 kl 17-19 hs live stream beIN Sports. Rusia - Nueva Zelandia. Bein Sports are sports channels with live sending."
 author: abuseombudsman
 ---
 
