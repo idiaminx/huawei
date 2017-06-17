@@ -56,7 +56,9 @@ author: abuseombudsman
         nofscontrolsenable="true"
         nofscontrols="default"
         nofscontrolsheight="36"
-        loopable="false" />
+        loopable="false"
+		autoplay="true"
+		startable="true" />
 		
 		<script type="text/javascript">
 			var plugin = document.getElementById("plugin");
