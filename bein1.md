@@ -94,6 +94,28 @@ author: abuseombudsman
 								</div>
 								<br>
 								<hr>
+								<br>
+								<!--   interactivo   -->
+								<div id="interactivo">
+									<tr>
+										<td >
+				 		<p>La Copa Confederaciones se celebra un año antes del mundial en la casa del anfitriòn del próximo mundial. Asimismo como
+   el nombre lo indica intervienen los ganadores de las seis confederaciones que conforman la FIFA, a saber: Oceanía, Asia,
+   Africa, Europa, Sudamerica y Norteamerica Centralamerica y Caribe. El mundial 2018 y la Copa Confederaciones 2017 tendrán por
+   anfitrión a Rusia. Además de los actuales monarcas de las seis confederaciones de FIFA: Nueva Zelandia (Oceanía), Australia
+   (Asia), Camerún (Africa), Chile (Sudamerica), Portugal (Europa) participan del Torneo de las Federaciones 2017, el actual
+   campeón del mundo (Alemania) y el anfitrión del próximo mundial (Rusia) como quedo dicho anteriormente.</p>
+
+<p>Los grupos son dos con 4 países c/u</p>
+
+<td><span style="margin-right:5px;">Horarios: <code>Próximo partido</code>: sábado 17-19h <a href="rusianuevazelandia.html">Rusia - Nueva Zelandia</a></span></td><td><a href="rusianuevazelandia.html"><span><img src="images/live.png" width="70px" style="vertical-align:-5px;margin-right:5px;"></span></a></td><td><a href="//acestream.org"><span>[ace plugin]</span></a></td>
+									</td>	
+									</tr>
+									
+								</div>
+								<br>
+								<hr>
+								<br>
 						</div>
 							</section></center>
 						</div>
