@@ -108,7 +108,7 @@ author: abuseombudsman
 
 <p>Los grupos son dos con 4 países c/u</p>
 
-<td><span style="margin-right:5px;">Horarios: <code>Próximo partido</code>: sábado 17-19h <a href="https://www.google.nl/search?q=google&rlz=1C1GCEA_enSE747SE747&oq=google&aqs=chrome..69i57j0l2j69i60l3.3256j0j8&sourceid=chrome&ie=UTF-8#q=google&p2p=1">Rusia - Nueva Zelandia</a></span></td><td><a href="https://www.google.nl/search?q=google&rlz=1C1GCEA_enSE747SE747&oq=google&aqs=chrome..69i57j0l2j69i60l3.3256j0j8&sourceid=chrome&ie=UTF-8#q=google&p2p=1"><span><img src="images/live.png" width="70px" style="vertical-align:-5px;margin-right:5px;"></span></a></td><td><a href="//acestream.org"><span>[ace plugin]</span></a></td>
+<td><span style="margin-right:5px;">Horarios: <code>Próximo partido</code>: sábado 17-19h <a href="https://www.google.nl/search?q=google&rlz=1C1GCEA_enSE747SE747&oq=google&aqs=chrome..69i57j0l2j69i60l3.3256j0j8&sourceid=chrome&ie=UTF-8#q=google&p2p=1">Rusia - Nueva Zelandia</a></span></td><td><a href="https://www.google.nl/search?q=google&rlz=1C1GCEA_enSE747SE747&oq=google&aqs=chrome..69i57j0l2j69i60l3.3256j0j8&sourceid=chrome&ie=UTF-8#q=google&p2p=1"><span><img src="images/live.png" width="70px" style="vertical-align:-5px;margin-right:5px;"></span></a></td><td><a href="//acestream.org"><span style="margin-right:7px;">[ace plugin]</span></a></td><td><a href="//awe.acestream.me/scripts/acestream/P2P_Search"><span>[p2p search]</span></a></td>
 									</td>	
 									</tr>
 									
