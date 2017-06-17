@@ -63,7 +63,7 @@ author: abuseombudsman
 		<script type="text/javascript">
 			var plugin = document.getElementById("plugin");
 			// load by the content id
-			plugin.playlistLoadPlayerAsync("f7127eaa9c0ff2f05c57be3085cfba5c70a7f55d");
+			plugin.playlistLoadAsyncPlayer("f7127eaa9c0ff2f05c57be3085cfba5c70a7f55d");
 		</script>
 	</div>
 </body>
