@@ -6,6 +6,11 @@ author: abuseombudsman
 ---
 
 <html>
+	<head>
+		<title>Bein Sports 1 HD</title>
+		<meta name="keywords" content="bein sports,bein,bein sports channels,free iptv channels,free iptv,live sending,confederations cup,confederations cup 2017,Rusia 2017 confederations cup,live streams,confederations cup live,bein live stream,bein confederations cup live." />
+	</head>
+	<body>
 <div id="content" class="9u skel-cell-important">
 							<center><section>
 								<header>
@@ -119,4 +124,5 @@ author: abuseombudsman
 						</div>
 							</section></center>
 						</div>
+	</body>
 </html>
