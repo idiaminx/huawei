@@ -1,0 +1,2 @@
+Bein Sports kanalerna:
+	enlace para obtener estreams urls -->  http://xc.cobra-iptv.com:25461/get.php?username=Beinexclusive-V2&password=ghO8nBbaHo&type=m3u
