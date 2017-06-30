@@ -6,6 +6,9 @@ author: abuseombudsman
 ---
 
 <html>
+	<head>
+		<meta name="keywords" content="bein sports 2 hd, bein sports, bein." />
+	</head>
 <div id="content" class="9u skel-cell-important">
 							<center><section>
 								<header>
@@ -73,7 +76,7 @@ author: abuseombudsman
 
 														<div class="media-wrapper">
 															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://asno.gcdn.co/bn-sp-2-hd/index.m3u8" controls>
-																<source src="http://asno.gcdn.co/bn-sp-2-hd/index.m3u8" type="video/hls">
+																<source src="http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2234.m3u8" type="video/hls">
 															</video>
 														</div>
 

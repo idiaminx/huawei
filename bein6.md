@@ -73,7 +73,7 @@ author: abuseombudsman
 
 														<div class="media-wrapper">
 															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://asno.gcdn.co/bn-sp-6-hd/index.m3u8" controls>
-																<source src="http://asno.gcdn.co/bn-sp-6-hd/index.m3u8" type="video/hls">
+																<source src="http://xc.cobra-iptv.com:25461/live/Beinexclusive-V2/ghO8nBbaHo/2238.m3u8" type="video/hls">
 															</video>
 														</div>
 
