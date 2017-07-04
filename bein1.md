@@ -78,7 +78,7 @@ author: abuseombudsman
 
 														<div class="media-wrapper">
 															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://asno.gcdn.co/bn-sp-1-hd/index.m3u8" controls>
-																<source src="http://xtream.swiftiptv.com:6500/movie/adohit/9Fx4ni9k/17571.mkv" type="video/hls">  <!--http://asno.gcdn.co/bn-sp-1-hd/index.m3u8-->
+																<source src="http://xtream.swiftiptv.com:6500/live/adohit/9Fx4ni9k/4379.m3u8" type="video/hls">  <!--http://asno.gcdn.co/bn-sp-1-hd/index.m3u8-->
 															</video>
 														</div>
 
