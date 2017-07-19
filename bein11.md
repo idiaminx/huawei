@@ -72,9 +72,10 @@ author: abuseombudsman
 
 
 														<div class="media-wrapper">
-															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://asno.gcdn.co/bn-sp-11-hd/index.m3u8" controls>
+															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://93.174.93.84:8081/live/bein11-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE3IDEyOjQ0OjM5IFBNJmhhc2
+hfdmFsdWU9eS9EWTZoa3hXVFh0TDFpOE12cnRDUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjEzNC43MiZzdHJtX2xlbj0xNA==" controls>
 																<source src="http://93.174.93.84:8081/live/bein11-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE3IDEyOjQ0OjM5IFBNJmhhc2
-            hfdmFsdWU9eS9EWTZoa3hXVFh0TDFpOE12cnRDUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjEzNC43MiZzdHJtX2xlbj0xNA==" type="video/hls">
+hfdmFsdWU9eS9EWTZoa3hXVFh0TDFpOE12cnRDUT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjEzNC43MiZzdHJtX2xlbj0xNA==" type="video/hls">
 															</video>
 														</div>
 
