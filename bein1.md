@@ -16,7 +16,9 @@ author: abuseombudsman
 								<header>
 									<h1> Bein Sports 1 HD</h1>
 									<span class="byline" style="font-weight:900;">Futbol, tenis, basquetbol, handbol, formula 1, moto GP</span>
+									<center><span style="background-color:#f65b06;">stream url for vlc-player: </span></center>
 								</header>
+								<span style="background-color:#cc06f6;">http://93.174.93.84:8081/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE3IDEwOjUzOjU3IEFNJmhhc2hfdmFsdWU9NCtYYlN1S0lMMEpMRk5iaHhpMVhZdz09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjEzNC43MiZzdHJtX2xlbj0xMw==</span>
 
 								<div id="container">
 							<section>
@@ -78,7 +80,8 @@ author: abuseombudsman
 
 														<div class="media-wrapper">
 															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://asno.gcdn.co/bn-sp-1-hd/index.m3u8" controls>
-																<source src="https://openload.co/embed/ubysKHV_910/Alien_Covenant_2017_KORSUB_HDRip_MP3-STUTTERSHIT.mp4" type="video/mp4">  <!--http://asno.gcdn.co/bn-sp-1-hd/index.m3u8-->
+																<source src="http://93.174.93.84:8081/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE3IDEyOjQ3OjA3IFBNJmhhc2
+           hfdmFsdWU9WWJTWmpXUkRpRG1Cc0NZdXBZU0Irdz09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjEzNC43MiZzdHJtX2xlbj0xMw==" type="video/hls">  <!--http://asno.gcdn.co/bn-sp-1-hd/index.m3u8-->
 															</video>
 														</div>
 
