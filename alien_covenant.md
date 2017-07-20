@@ -8,7 +8,7 @@ author: abuseombudsman
 <html>
 	<body>
 		<span><h1>Alien Covenant (2017)</h1></span><br>
-		<center><span style="background-color:#f67604;color:#fff">stream url link for vlc-player:</span></center>
+		<center><span style="background-color:#f67604;color:#fff">[stream url link for vlc-player][right click, copy and paste into open network in vlc-player]:</span></center>
 		<a href="https://s31.openstream.io/hls/,qvsbdhyantblgwsztq6kayuekjsvif2uyfw6n7c6cymmtelmskvkugq2n7ka,.urlset/master.m3u8"><span>https://s31.openstream.io/hls/,qvsbdhyantblgwsztq6kayuekjsvif2uyfw6n7c6cymmtelmskvkugq2n7ka,.urlset/master.m3u8</span></a>
 		<span><img src="https://image.tmdb.org/t/p/w780/kMU8trT43p5LFoJ4plIySMOsZ1T.jpg"></span><br>
 		<span><img src="https://image.tmdb.org/t/p/w780/jXgKmcZGqzLE1u9y0wXsHhDWqAv.jpg"></span><br>

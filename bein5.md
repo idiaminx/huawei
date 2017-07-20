@@ -7,13 +7,14 @@ author: abuseombudsman
 
 <html>
 <div id="content" class="9u skel-cell-important">
-							<center><section>
+							<center><!--<section>
 								<header>
 									<h1> Bein Sports 5 HD</h1>
 									<span class="byline" style="font-weight:900;">Futbol, tenis, basquetbol, handbol, formula 1, moto GP</span>
 								</header>
 
 								<div id="container">
+							<section>-->
 							<section>
 								<h3>Global Options</h3>
 								<form action="#" method="get">
@@ -90,11 +91,8 @@ author: abuseombudsman
 
 										</tbody>
 									</table>
-									<br>
+									
 								</div>
 								<br>
-								<hr>
-						</div>
-							</section></center>
-						</div>
-</html>
+								<hr><tr><td><img src="images/saceciada.jpg" width="56px"></td><td><span><img src="images/Shaktar.Donietsk.png" style="vertical-align:3px;" height="47px"></span></td><td><span style="vertical-align:20px;">-IPTV</span></td><tr>
+						

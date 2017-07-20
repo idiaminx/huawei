@@ -12,7 +12,7 @@ author: abuseombudsman
 	</head>
 	<body>
 <div id="content" class="9u skel-cell-important">
-							<center><section>
+							<center><!--<section>
 								<header>
 									<h1> Bein Sports 1 HD</h1>
 									<span class="byline" style="font-weight:900;">Futbol, tenis, basquetbol, handbol, formula 1, moto GP</span>
@@ -21,7 +21,7 @@ author: abuseombudsman
 								<span style="background-color:#cc06f6;">http://93.174.93.84:8081/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE3IDEwOjUzOjU3IEFNJmhhc2hfdmFsdWU9NCtYYlN1S0lMMEpMRk5iaHhpMVhZdz09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjEzNC43MiZzdHJtX2xlbj0xMw==</span>
 
 								<div id="container">
-							<section>
+							--><section>
 								<h3>Global Options</h3>
 								<form action="#" method="get">
 									<label>Language
@@ -79,8 +79,8 @@ author: abuseombudsman
 
 
 														<div class="media-wrapper">
-															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://93.174.93.84:8081/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE3IDExOjI4OjIxIFBNJmhhc2hfdmFsdWU9UWRmM3VMTEV6dzRtemRaVFpIaW44Zz09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjEzNC43MiZzdHJtX2xlbj0xMw==" controls>
-																<source src="http://93.174.93.84:8081/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE3IDExOjI4OjIxIFBNJmhhc2hfdmFsdWU9UWRmM3VMTEV6dzRtemRaVFpIaW44Zz09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjEzNC43MiZzdHJtX2xlbj0xMw==" type="video/hls">  <!--http://asno.gcdn.co/bn-sp-1-hd/index.m3u8-->
+															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://93.174.93.84:8081/live/bein4-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE3IDc6Mzg6MjcgQU0maGFzaF92YWx1ZT1SVEx1N29scGdDL0MwTmE0cmwwMnJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTM0LjcyJnN0cm1fbGVuPTEz" controls>
+																<source src="http://93.174.93.84:8081/live/bein4-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE3IDc6Mzg6MjcgQU0maGFzaF92YWx1ZT1SVEx1N29scGdDL0MwTmE0cmwwMnJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTM0LjcyJnN0cm1fbGVuPTEz" type="video/hls">  <!--http://asno.gcdn.co/bn-sp-1-hd/index.m3u8-->
 															</video>
 														</div>
 
@@ -121,10 +121,7 @@ author: abuseombudsman
 									
 								</div>
 								<br>
-								<hr>
-								<br>
-						</div>
-							</section></center>
-						</div>
-	</body>
-</html>
+								<hr><tr style="border-color:#000;"><td><img src="images/saceciada.jpg" width="56px"></td><td><span><img src="images/Shaktar.Donietsk.png" style="vertical-align:3px;" height="47px"></span></td><td><span style="vertical-align:20px;">-IPTV</span></td><tr>
+								
+						<center></center>
+						

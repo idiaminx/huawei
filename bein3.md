@@ -8,13 +8,14 @@ author: abuseombudsman
 <html>
 
 <div id="content" class="9u skel-cell-important">
-							<center><section>
+							<center><!--<section>
 								<header>
 									<h1> Bein Sports 3 HD</h1>
 									<span class="byline" style="font-weight:900;">Futbol, tenis, basquetbol, handbol, formula 1, moto GP</span>
 								</header>
 
 								<div id="container">
+							<section>-->
 							<section>
 								<h3>Global Options</h3>
 								<form action="#" method="get">
@@ -73,10 +74,8 @@ author: abuseombudsman
 
 
 														<div class="media-wrapper">
-															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://93.174.93.84:8081/live/bein3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE3IDEyOjI4OjU3IFBNJmhhc2
-hfdmFsdWU9Skc4M0VibXNIMFpuQTV6MGFpYzJNZz09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjEzNC43MiZzdHJtX2xlbj0xMw==" controls>
-																<source src="http://93.174.93.84:8081/live/bein3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE3IDEyOjI4OjU3IFBNJmhhc2
-hfdmFsdWU9Skc4M0VibXNIMFpuQTV6MGFpYzJNZz09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjEzNC43MiZzdHJtX2xlbj0xMw==" type="video/hls">
+															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://93.174.93.84:8081/live/bein3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE3IDI6MzI6NDcgQU0maGFzaF92YWx1ZT1yNnNrdjl3N2ttdVZ6VnBhODJEcmZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTM0LjcyJnN0cm1fbGVuPTEz" controls>
+																<source src="http://93.174.93.84:8081/live/bein3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE3IDI6MzI6NDcgQU0maGFzaF92YWx1ZT1yNnNrdjl3N2ttdVZ6VnBhODJEcmZ3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTM0LjcyJnN0cm1fbGVuPTEz" type="video/hls">
 															</video>
 														</div>
 
@@ -93,11 +92,8 @@ hfdmFsdWU9Skc4M0VibXNIMFpuQTV6MGFpYzJNZz09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4Lj
 
 										</tbody>
 									</table>
-									<br>
+									
 								</div>
 								<br>
-								<hr>
-						</div>
-							</section></center>
-						</div>
-</html>
+								<hr><tr><td><img src="images/saceciada.jpg" width="56px"></td><td><span><img src="images/Shaktar.Donietsk.png" style="vertical-align:3px;" height="47px"></span></td><td><span style="vertical-align:20px;">-IPTV</span></td><tr>
+						

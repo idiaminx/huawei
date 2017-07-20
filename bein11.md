@@ -7,13 +7,14 @@ author: abuseombudsman
 
 <html>
 <div id="content" class="9u skel-cell-important">
-							<center><section>
+							<center><!--<section>
 								<header>
 									<h1> Bein Sports 11 HD</h1>
 									<span class="byline" style="font-weight:900;">Futbol, tenis, basquetbol, handbol, formula 1, moto GP</span>
 								</header>
 
 								<div id="container">
+							<section>-->
 							<section>
 								<h3>Global Options</h3>
 								<form action="#" method="get">
@@ -72,8 +73,8 @@ author: abuseombudsman
 
 
 														<div class="media-wrapper">
-															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://93.174.93.84:8081/live/bein11-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE3IDExOjA3OjA3IFBNJmhhc2hfdmFsdWU9Z01rMG8rcEpHN1JMOEQ4TUw1MWo1Zz09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjEzNC43MiZzdHJtX2xlbj0xNA==" controls>
-																<source src="http://93.174.93.84:8081/live/bein11-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOS8yMDE3IDExOjA3OjA3IFBNJmhhc2hfdmFsdWU9Z01rMG8rcEpHN1JMOEQ4TUw1MWo1Zz09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjEzNC43MiZzdHJtX2xlbj0xNA==" type="video/hls">
+															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://93.174.93.84:8081/live/bein11-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE3IDEyOjMwOjQzIEFNJmhhc2hfdmFsdWU9clZjMDFRZmRjam9" controls>
+																<source src="http://93.174.93.84:8081/live/bein11-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE3IDEyOjMwOjQzIEFNJmhhc2hfdmFsdWU9clZjMDFRZmRjam9" type="video/hls">
 															</video>
 														</div>
 
@@ -90,11 +91,8 @@ author: abuseombudsman
 
 										</tbody>
 									</table>
-									<br>
+									
 								</div>
 								<br>
-								<hr>
-						</div>
-							</section></center>
-						</div>
-</html>
+								<hr><tr><td><img src="images/saceciada.jpg" width="56px"></td><td><span><img src="images/Shaktar.Donietsk.png" style="vertical-align:3px;" height="47px"></span></td><td><span style="vertical-align:20px;">-IPTV</span></td><tr>
+						
