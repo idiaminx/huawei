@@ -77,8 +77,8 @@ author: abuseombudsman
 
 
 														<div class="media-wrapper">
-															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://93.174.93.84:8081/live/bein2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE3IDEyOjU0OjA0IEFNJmhhc2hfdmFsdWU9WW1jMDRONGQ2elYwS1d4V0xqRUtUdz09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjEzNC43MiZzdHJtX2xlbj0xMw==" controls>
-																<source src="http://93.174.93.84:8081/live/bein2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE3IDEyOjU0OjA0IEFNJmhhc2hfdmFsdWU9WW1jMDRONGQ2elYwS1d4V0xqRUtUdz09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjEzNC43MiZzdHJtX2xlbj0xMw==" type="video/hls">
+															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://93.174.93.84:8081/live/bein2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE3IDQ6NDE6MjggUE0maGFzaF92YWx1ZT1tazFSaS94MHowNXFtRFNGU2dZTkdRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTM0LjcyJnN0cm1fbGVuPTEz" controls>
+																<source src="http://93.174.93.84:8081/live/bein2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE3IDQ6NDE6MjggUE0maGFzaF92YWx1ZT1tazFSaS94MHowNXFtRFNGU2dZTkdRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTM0LjcyJnN0cm1fbGVuPTEz" type="video/hls">
 															</video>
 														</div>
 
