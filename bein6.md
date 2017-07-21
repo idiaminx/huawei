@@ -73,8 +73,8 @@ author: abuseombudsman
 
 
 														<div class="media-wrapper">
-															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://93.174.93.84:8081/live/bein6-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE3IDQ6NTA6NDkgUE0maGFzaF92YWx1ZT1nalhkK0RiZEE1QkZlU1JFd2pFdkJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTM0LjcyJnN0cm1fbGVuPTEz" controls>
-																<source src="http://93.174.93.84:8081/live/bein6-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDE3IDQ6NTA6NDkgUE0maGFzaF92YWx1ZT1nalhkK0RiZEE1QkZlU1JFd2pFdkJnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTM0LjcyJnN0cm1fbGVuPTEz" type="video/hls">
+															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://93.174.93.84:8081/live/bein6-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE3IDg6Mjc6MjUgUE0maGFzaF92YWx1ZT1mQkxIeFlUa0FMWlpmN1V0U3dDMjRBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTM0LjcyJnN0cm1fbGVuPTEz" controls>
+																<source src="http://93.174.93.84:8081/live/bein6-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE3IDg6Mjc6MjUgUE0maGFzaF92YWx1ZT1mQkxIeFlUa0FMWlpmN1V0U3dDMjRBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTM0LjcyJnN0cm1fbGVuPTEz" type="video/hls">
 															</video>
 														</div>
 
