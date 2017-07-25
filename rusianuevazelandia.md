@@ -47,18 +47,18 @@ author: abuseombudsman
 	//--><!]]>
 	</script>
 	<div id="aceplayer">
-		 <embed id="plugin" type="application/x-acestream-plugin"
-        width="800"
-        height="600"
-        fullscreencontrols="true"
-        fscontrolsenable="true"
-        fscontrols="default"
-        nofscontrolsenable="true"
-        nofscontrols="default"
-        nofscontrolsheight="36"
-        loopable="false"
-		autoplay="true"
-		startable="true" />
+		<object id="plugin" classid="clsid:79690976-ED6E-403c-BBBA-F8928B5EDE17">
+			<param name="width" value="800" />
+			<param name="height" value="600" />
+			<param name="fullscreencontrols" value="true" />
+			<param name="fscontrolsenable" value="true" />
+			<param name="fscontrols" value="default" />
+			<param name="nofscontrolsenable" value="true" />
+			<param name="nofscontrols" value="default" />
+			<param name="nofscontrolsheight" value="36" />
+			<param name="loopable" value="false" /> 
+			<param name="autoplay" value="true" />
+		</object>
 		
 		<script type="text/javascript">
 			var plugin = document.getElementById("plugin");
