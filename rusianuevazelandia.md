@@ -9,10 +9,10 @@ author: abuseombudsman
 
 <html>
 <body>
-	<!--<script type="text/javascript">
+	<script type="text/javascript">
 		<!--//--><![CDATA[// ><!--
 
-		<!-- function init() {
+		function init() {
 			var useInternalControls = true;
     
 			var controls = new TorrentStream.Controls("tsplayer", {
@@ -42,14 +42,14 @@ author: abuseombudsman
 		catch(e) {
 			controls.onSystemMessage(e);
 		}
-	} -->
+	} 
 
 	//--><!]]>
-	<!-- </script>-->
+	</script>
 	<div id="aceplayer">
 		<object id="plugin" classid="clsid:79690976-ED6E-403c-BBBA-F8928B5EDE17">
-			<param name="width" value="800" />
-			<param name="height" value="450" />
+			<param name="width" value="800px" />
+			<param name="height" value="450px" />
 			<param name="fullscreencontrols" value="true" />
 			<param name="fscontrolsenable" value="true" />
 			<param name="fscontrols" value="default" />
