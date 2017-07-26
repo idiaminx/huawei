@@ -1,16 +1,16 @@
 ---
 layout: matchannels
-title: "Match ARENA acestream"
-description: "Match ARENA acestream requires ace-player to be installed, para ver la señal de Match ARENA acestream necesita descargar ace-player del sitio http://acestream.org"
+title: "Match Nash Sport acestream"
+description: "Match Nash Sport acestream requires ace-player to be installed, para ver la señal de Match Nash Sport acestream necesita descargar ace-player del sitio http://acestream.org"
 author: abuseombudsman
 ---
-# Match ARENA acestream
+# Match Nash Sport acestream
 <html>
 <head>
 	
 	<tr>
 		<td>
-			<span><img src="images/Match.ARENA.png" height="40px" style="margin-right:10px;"></span>
+			<span><img src="images/Match.E-SPORT.png" height="40px" style="margin-right:10px;"></span>
 		</td>
 		<td>
 			<span>Para ver estos canales necesita Internet Explorer y descargar del sitio <a href="//acestream.org">acestream.org</a> el ACE-PLAYER</span>
@@ -40,7 +40,7 @@ author: abuseombudsman
 						controls.attachPlayer(this);
 						try {
 							var p = this;
-							this.loadPlayer("a33ae2425ceb77dc138f266fb1450f1f25ee9950", {autoplay: true});
+							this.loadPlayer("105e260031585f2486828a56eb64165c0a073ec8", {autoplay: true});
 						}
 						catch(e) {
 						console.log("init: " + e);
@@ -72,7 +72,7 @@ author: abuseombudsman
 		<script type="text/javascript">
 			var plugin = document.getElementById("plugin");
 			// load by the content id
-			plugin.playlistLoadAsyncPlayer("a33ae2425ceb77dc138f266fb1450f1f25ee9950");
+			plugin.playlistLoadAsyncPlayer("105e260031585f2486828a56eb64165c0a073ec8");
 		</script>
 	</div>
 </body>

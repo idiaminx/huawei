@@ -1,6 +1,6 @@
 ---
 layout: matchannels
-title: "MatchTB acestream"
+title: "Match IGRA acestream"
 description: "Match IGRA acestream requires ace-player to be installed, para ver la señal de Match IGRA acestream necesita descargar ace-player del sitio http://acestream.org"
 author: abuseombudsman
 ---
