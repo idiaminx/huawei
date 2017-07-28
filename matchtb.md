@@ -1,10 +1,10 @@
 ---
 layout: matchannels
-title: "MatchTB acestream"
+title: "Match TB acestream"
 description: "Match TB acestream requires ace-player to be installed, para ver la señal de Match TB acestream necesita descargar ace-player del sitio http://acestream.org"
 author: abuseombudsman
 ---
-# MatchTB acestream
+# Match TB acestream
 <html>
 <head>
 	
@@ -16,7 +16,7 @@ author: abuseombudsman
 			<span>Para ver estos canales necesita Internet Explorer y descargar del sitio <a href="//acestream.org">acestream.org</a> el ACE-PLAYER</span>
 		</td>
 	</tr>
-
+	
 <body>
 	<script type="text/javascript">
 		<!--//--><![CDATA[// ><!--
@@ -40,7 +40,7 @@ author: abuseombudsman
 						controls.attachPlayer(this);
 						try {
 							var p = this;
-							this.loadPlayer("798127320be63d737e22d2eca358860d397973b9", {autoplay: true});
+							this.loadPlayer("fa3b106d8069c2dc57712f6f6d98c88b32f75c07", {autoplay: true});
 						}
 						catch(e) {
 						console.log("init: " + e);
@@ -72,7 +72,7 @@ author: abuseombudsman
 		<script type="text/javascript">
 			var plugin = document.getElementById("plugin");
 			// load by the content id
-			plugin.playlistLoadAsyncPlayer("798127320be63d737e22d2eca358860d397973b9");
+			plugin.playlistLoadAsyncPlayer("fa3b106d8069c2dc57712f6f6d98c88b32f75c07");
 		</script>
 	</div>
 </body>
