@@ -1,16 +1,16 @@
 ---
 layout: matchannels
-title: "Sport 2 UA acestream"
-description: "Sport 2 UA acestream requires ace-player to be installed, para ver la señal de Sport 2 UA acestream necesita descargar ace-player del sitio http://acestream.org"
+title: "Viasat Sport acestream"
+description: "Viasat Sport acestream requires ace-player to be installed, para ver la señal de Viasat Sport acestream necesita descargar ace-player del sitio http://acestream.org"
 author: abuseombudsman
 ---
-# Sport 2 UA acestream
+# Viasat Sport acestream
 <html>
 <head>
 	
 	<tr>
 		<td>
-			<span><img src="images/sport.ukrania-2.png" height="40px" style="margin-right:10px;"></span>
+			<span><img src="images/viasatsport.png" height="40px" style="margin-right:10px;"></span>
 		</td>
 		<td>
 			<span>Para ver estos canales necesita Internet Explorer y descargar del sitio <a href="//acestream.org">acestream.org</a> el ACE-PLAYER</span>
