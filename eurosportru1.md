@@ -40,7 +40,7 @@ author: abuseombudsman
 						controls.attachPlayer(this);
 						try {
 							var p = this;
-							this.loadPlayer("af179ac108963677de560ca7d5e02401ec10bfe9", {autoplay: true});
+							this.loadPlayer("193f98678705322f54f7984a74e4d30dce0cf081", {autoplay: true});
 						}
 						catch(e) {
 						console.log("init: " + e);
@@ -57,8 +57,8 @@ author: abuseombudsman
 	</script>
 	<div id="aceplayer">
 		<object id="plugin" classid="clsid:79690976-ED6E-403c-BBBA-F8928B5EDE17">
-			<param name="width" value="800px" />
-			<param name="height" value="450px" />
+			<param name="width" value="800" />
+			<param name="height" value="600" />
 			<param name="fullscreencontrols" value="true" />
 			<param name="fscontrolsenable" value="true" />
 			<param name="fscontrols" value="default" />
@@ -72,7 +72,7 @@ author: abuseombudsman
 		<script type="text/javascript">
 			var plugin = document.getElementById("plugin");
 			// load by the content id
-			plugin.playlistLoadAsyncPlayer("af179ac108963677de560ca7d5e02401ec10bfe9");
+			plugin.playlistLoadAsyncPlayer("193f98678705322f54f7984a74e4d30dce0cf081");
 		</script>
 	</div>
 </body>
