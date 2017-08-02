@@ -40,7 +40,7 @@ author: abuseombudsman
 						controls.attachPlayer(this);
 						try {
 							var p = this;
-							this.loadPlayer("267b7334b1f14a8813b1f7166673c4739bcc283d", {autoplay: true});
+							this.loadPlayer("303d74c5e9311b8f0b2f4ef0e41fad5712d5a0a2", {autoplay: true});
 						}
 						catch(e) {
 						console.log("init: " + e);
@@ -72,7 +72,7 @@ author: abuseombudsman
 		<script type="text/javascript">
 			var plugin = document.getElementById("plugin");
 			// load by the content id
-			plugin.playlistLoadAsyncPlayer("267b7334b1f14a8813b1f7166673c4739bcc283d");
+			plugin.playlistLoadAsyncPlayer("303d74c5e9311b8f0b2f4ef0e41fad5712d5a0a2");
 		</script>
 	</div>
 </body>
