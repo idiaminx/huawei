@@ -1,22 +1,22 @@
 ---
 layout: matchannels
-title: "Match TB acestream"
-description: "Match TB acestream requires ace-player to be installed, para ver la señal de Match TB acestream necesita descargar ace-player del sitio http://acestream.org"
+title: "El stream de Futbol"
+description: "El stream de Futbol requires ace-player to be installed, para ver el stream de Futbol necesita descargar ace-player del sitio http://acestream.org"
 author: abuseombudsman
 ---
-# Match TB acestream
+# El stream de Futbol
 <html>
 <head>
 	
 	<tr>
 		<td>
-			<span><img src="images/Match!.png" height="40px" style="margin-right:10px;"></span>
+			<span><img src="images/TelekanalFùtbol-HD.jpg" height="40px" style="margin-right:10px;"></span>
 		</td>
 		<td>
 			<span>Para ver estos canales necesita Internet Explorer y descargar del sitio <a href="//acestream.org">acestream.org</a> el ACE-PLAYER</span>
 		</td>
 	</tr>
-	
+
 <body>
 	<script type="text/javascript">
 		<!--//--><![CDATA[// ><!--
@@ -40,7 +40,7 @@ author: abuseombudsman
 						controls.attachPlayer(this);
 						try {
 							var p = this;
-							this.loadPlayer("ff4010ad8125c6eedeabc9207dae477cd27fe984", {autoplay: true});
+							this.loadPlayer("558cc834f363fe484b420a6628209e9627e04395", {autoplay: true});
 						}
 						catch(e) {
 						console.log("init: " + e);
@@ -72,7 +72,7 @@ author: abuseombudsman
 		<script type="text/javascript">
 			var plugin = document.getElementById("plugin");
 			// load by the content id
-			plugin.playlistLoadAsyncPlayer("ff4010ad8125c6eedeabc9207dae477cd27fe984");
+			plugin.playlistLoadAsyncPlayer("558cc834f363fe484b420a6628209e9627e04395");
 		</script>
 	</div>
 </body>

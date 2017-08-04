@@ -1,10 +1,10 @@
 ---
 layout: matchannels
-title: "Futbol 2 UA acestream"
-description: "Futbol 2 UA acestream requires ace-player to be installed, para ver la señal de Futbol 2 UA acestream necesita descargar ace-player del sitio http://acestream.org"
+title: "El stream de Futbol 2 (Ukrania)"
+description: "Futbol 2 (Ukrania) stream requires ace-player to be installed, para ver el stream de Futbol 2 (Ukrania) necesita descargar ace-player del sitio http://acestream.org"
 author: abuseombudsman
 ---
-# Futbol 2 UA acestream
+# El stream de Futbol 2 (Ukrania)
 <html>
 <head>
 	

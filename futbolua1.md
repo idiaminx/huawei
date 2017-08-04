@@ -1,10 +1,10 @@
 ---
 layout: matchannels
-title: "Futbol 1 UA acestream"
-description: "Futbol 1 UA acestream requires ace-player to be installed, para ver la señal de Futbol 1 UA acestream necesita descargar ace-player del sitio http://acestream.org"
+title: "El stream de Futbol 1 (Ukrania)"
+description: "Futbol 1 (Ukrania) stream requires ace-player to be installed, para ver el stream de Futbol 1 (Ukrania) necesita descargar ace-player del sitio http://acestream.org"
 author: abuseombudsman
 ---
-# Futbol 1 UA acestream
+# El stream de Futbol 1 (Ukrania)
 <html>
 <head>
 	
@@ -40,7 +40,7 @@ author: abuseombudsman
 						controls.attachPlayer(this);
 						try {
 							var p = this;
-							this.loadPlayer("f1d809274ce915824b5ee2e727384a19a16d097f", {autoplay: true});
+							this.loadPlayer("0ce4b4fa527043d57b78f20e4598d1173d357946", {autoplay: true});
 						}
 						catch(e) {
 						console.log("init: " + e);
@@ -72,7 +72,7 @@ author: abuseombudsman
 		<script type="text/javascript">
 			var plugin = document.getElementById("plugin");
 			// load by the content id
-			plugin.playlistLoadAsyncPlayer("f1d809274ce915824b5ee2e727384a19a16d097f");
+			plugin.playlistLoadAsyncPlayer("0ce4b4fa527043d57b78f20e4598d1173d357946");
 		</script>
 	</div>
 </body>

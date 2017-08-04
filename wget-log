@@ -1,0 +1,11 @@
+--2017-08-03 17:09:10--  https://www.google.com/search?q=P2P
+Resolving www.google.com... 216.58.213.228, 2a00:1450:4005:80a::2004
+Connecting to www.google.com|216.58.213.228|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.google.se/search?q=P2P&gws_rd=cr&ei=mzyDWZCWN83VwALG9paQDA [following]
+--2017-08-03 17:09:11--  https://www.google.se/search?q=P2P&gws_rd=cr&ei=mzyDWZCWN83VwALG9paQDA
+Resolving www.google.se... 216.239.38.120
+Connecting to www.google.se|216.239.38.120|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2017-08-03 17:09:12 ERROR 403: Forbidden.
+
