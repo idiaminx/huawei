@@ -1,7 +1,7 @@
 ---
 layout: matchannels
 title: "El stream de Sport 2 (Ukrania)"
-description: "Sport 2 (Ukrania) acestream requires ace-player to be installed, para ver el stream de Sport 2 (Ukrania) acestream necesita descargar ace-player del sitio http://acestream.org"
+description: "Sport 2 (Ukrania) stream requires ace-player to be installed, para ver el stream de Sport 2 (Ukrania) necesita descargar ace-player del sitio http://acestream.org"
 author: abuseombudsman
 ---
 # El stream de Sport 2 (Ukrania)
