@@ -80,7 +80,7 @@ author: abuseombudsman
 
 														<div class="media-wrapper">
 															<video id="player1" autoplay="true" autostart="true" width="640" height="360" style="max-width:100%;" preload="http://93.174.93.84:8081/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE3IDg6MTI6MzggUE0maGFzaF92YWx1ZT1ZZW80UFdYbFR5WDZyOVZVY3Q2bVl3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTM0LjcyJnN0cm1fbGVuPTEz" controls>
-																<source src="http://93.174.93.84:8081/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMS8yMDE3IDg6MTI6MzggUE0maGFzaF92YWx1ZT1ZZW80UFdYbFR5WDZyOVZVY3Q2bVl3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTE2Mi4xNTguMTM0LjcyJnN0cm1fbGVuPTEz" type="video/hls">  <!--http://asno.gcdn.co/bn-sp-1-hd/index.m3u8-->
+																<source src="http://freelive365.com/live_player.php?id=51" type="video/hls">  <!--http://asno.gcdn.co/bn-sp-1-hd/index.m3u8-->
 															</video>
 														</div>
 
